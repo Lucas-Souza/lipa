@@ -1,0 +1,24 @@
+EXEMPLO 1
+
+ENTRADA:
+4
+35
+64
+23
+59
+
+SAÍDA ESPERADA:
+(59 , 64)
+----------------------------
+EXEMPLO 2
+
+ENTRADA:
+5
+12
+3
+13
+1
+99
+
+SAÍDA ESPERADA:
+(12 , 13)
